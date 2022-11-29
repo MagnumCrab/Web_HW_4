@@ -325,6 +325,7 @@ body {
 
 .awesome {
     margin-top: 240px;
+    padding-bottom: 100px;
 }
 
 .flex-awesome {
@@ -369,6 +370,20 @@ body {
     justify-content: space-between;
     padding-top: 50px;
     padding-bottom: 25px;
+}
+
+.field {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+    margin-inline-start: 30px;
+    margin-inline-end: 30px;
+    padding-block-start: 0.35em;
+    padding-inline-start: 0.75em;
+    padding-inline-end: 0.75em;
+    padding-block-end: 0.625em;
+    min-inline-size: min-content;
+    border-width: 5px;
+    border-style: groove;
 }
 
 .footer-header {
